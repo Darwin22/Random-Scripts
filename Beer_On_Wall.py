@@ -1,5 +1,4 @@
 i = input("How many bottles of beer you wanna throw: ")
-#i = 99
 j=i
 while i != 1:
         print "%s bottles of beer on the wall, %s bottles of beer." %(i,i)
